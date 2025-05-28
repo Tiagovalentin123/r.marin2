@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Flask==3.1.0
 Flask-SQLAlchemy==3.1.1
 Flask-Login==0.6.3
@@ -18,9 +17,7 @@ psycopg2-binary
 gunicorn
 uvicorn
 fastapi
-
-=======
 fastapi
 uvicorn
 gunicorn
->>>>>>> f436037 (Adiciona app.py e atualiza requirements.txt)
+ f436037 (Adiciona app.py e atualiza requirements.txt)
